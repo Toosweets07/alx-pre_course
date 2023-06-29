@@ -1,1 +1,1 @@
-My first readme
+Nice programming class
